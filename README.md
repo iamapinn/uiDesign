@@ -1,7 +1,9 @@
 # webJavascript
-![image1](https://www.educative.io/api/page/6006247229751296/image/download/5350403106406400)
+![image](https://www.incimages.com/uploaded_files/image/1920x1080/getty_837392998_411522.jpg)
+some web design
 
-## clone / donwload 
+
+## clone repository
 ```bash
-git clone https://github.com/slowy07/webJavascript.git
+git clone https://github.com/slowy07/uiDesign.git
 ```
