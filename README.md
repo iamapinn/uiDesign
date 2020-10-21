@@ -7,3 +7,5 @@ some web design
 ```bash
 git clone https://github.com/slowy07/uiDesign.git
 ```
+## license
+[**GNU General Public License v3.0**](https://github.com/slowy07/uiDesign/blob/main/LICENSE)
