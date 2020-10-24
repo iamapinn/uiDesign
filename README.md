@@ -1,6 +1,5 @@
 # ui Design
 ![image](https://www.incimages.com/uploaded_files/image/1920x1080/getty_837392998_411522.jpg)
-some web design using
 
 ## clone repository
 ```bash
