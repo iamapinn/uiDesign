@@ -1,5 +1,5 @@
 # ui Design
-some basic ui design [**donate here**](https://sociabuzz.com/slowy07/tribe) for thanks for me :stuck_out_tongue: \
+some basic ui design [**donate here**](https://saweria.co/slowy07) for thanks for me :stuck_out_tongue: \
 for ui inspiration i get into dribble and coded it into webpages
 
 ![image](https://www.incimages.com/uploaded_files/image/1920x1080/getty_837392998_411522.jpg)
